@@ -61,7 +61,7 @@
                                         </collectionViewCellContentView>
                                         <size key="customSize" width="200" height="244"/>
                                         <connections>
-                                            <outlet property="posterView" destination="aPy-3U-eXQ" id="s7q-Ik-tP6"/>
+                                            <outlet property="posterView" destination="aPy-3U-eXQ" id="emC-V4-7Rj"/>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>
@@ -72,7 +72,7 @@
                     </view>
                     <navigationItem key="navigationItem" title="Superhero" id="IfL-eH-eUM"/>
                     <connections>
-                        <outlet property="collectionView" destination="u9p-Jm-oxe" id="v3c-y0-SxL"/>
+                        <outlet property="collectionView" destination="u9p-Jm-oxe" id="oea-yJ-ugH"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1cE-WX-vhh" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
